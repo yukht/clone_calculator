@@ -423,7 +423,7 @@ color: #1976D2;
 }</string>
         </property>
         <property name="text">
-         <string>AC</string>
+         <string>RESET</string>
         </property>
         <property name="shortcut">
          <string>Esc</string>
