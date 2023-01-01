@@ -1,0 +1,5 @@
+[user]
+	name = yukht
+	email = yukht_dev@bk.ru
+[alias]
+	history = log --graph
